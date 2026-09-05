@@ -1,6 +1,6 @@
-# SmartOSC Backend Internship
+# ViettelSolutions Backend Internship
 
-Repository tổng hợp các bài tập và project em thực hiện trong quá trình thực tập vị trí **Backend Intern tại SmartOSC**.
+Repository tổng hợp các bài tập và project em thực hiện trong quá trình thực tập vị trí **Backend Intern tại Viettel Solutions**.
 
 Nội dung thực hành được triển khai theo lộ trình từ kiến thức Java nền tảng, lập trình hướng đối tượng, Collection, xử lý dữ liệu, cơ sở dữ liệu đến phát triển Backend với Spring Boot.
 
