@@ -217,10 +217,10 @@ jwt:
 
 ## Internship Information
 
-- **Company:** SmartOSC
+- **Company:** Viettel Solutions
 - **Position:** Backend Intern
 - **Main Stack:** Java / Spring Boot
-- **Main Practice Project:** Device Management
+- **Main Practice Project:** CSDLĐV
 
 ---
 
